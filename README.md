@@ -4,8 +4,7 @@ This repository now includes a minimal, dependency-free Python model example.
 
 ## Build a model
 
-The `LinearModel` in `/home/runner/work/Model/Model/model.py` can be trained and
-used for prediction:
+The `LinearModel` in `model.py` can be trained and used for prediction:
 
 ```python
 from model import LinearModel
